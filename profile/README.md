@@ -10,7 +10,7 @@ At Yellow Moon Capital Research, we leverage quantitative strategies, algorithmi
 
 ### 24/7 Results
 
-We understand that the financial markets never sleep, and neither should your investments. With Yellow Moon Capital Research, you can rest assured that our strategies are designed to generate consistent income and growth, providing you with peace of mind at all times.
+We understand that the financial markets never sleep, and neither should your investments. With Yellow Moon Capital Research, you can rest assured that our strategies are designed to generate consistent income and growth, providing you with peace of mind around the clock.
 
 ### Quantitative Strategies
 
