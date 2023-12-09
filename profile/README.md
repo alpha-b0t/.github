@@ -1,16 +1,16 @@
-# Yellow Moon Capital Research
+# Electric Moon Trading Company
 
-Yellow Moon Capital Research is an organization dedicated to providing income and growth opportunities round the clock. Our aim is to help you achieve financial success, whether you're awake, asleep, enjoying a relaxing evening under the moonlight, or indulging in a late-night bath with a glass of your favorite wine by your side.
+Electric Moon Trading Company is an organization dedicated to providing income and growth opportunities round the clock. Our aim is to help you achieve financial success, whether you're awake, asleep, enjoying a relaxing evening under the moonlight, or indulging in a late-night bath with a glass of your favorite wine by your side.
 
 ## About Us
 
-At Yellow Moon Capital Research, we leverage quantitative strategies, algorithmic trading techniques, and cutting-edge software and technology to deliver exceptional results. Our team of experts is committed to developing innovative investment solutions that thrive in both favorable and challenging market conditions.
+At Electric Moon Trading Company, we leverage quantitative strategies, algorithmic trading techniques, and cutting-edge software and technology to deliver exceptional results. Our team of experts is committed to developing innovative investment solutions that thrive in both favorable and challenging market conditions.
 
 ## How We Work
 
 ### 24/7 Results
 
-We understand that the financial markets never sleep, and neither should your investments. With Yellow Moon Capital Research, you can rest assured that our strategies are designed to generate consistent income and growth, providing you with peace of mind around the clock.
+We understand that the financial markets never sleep, and neither should your investments. With Electric Moon Trading Company, you can rest assured that our strategies are designed to generate consistent income and growth, providing you with peace of mind around the clock.
 
 ### Quantitative Strategies
 
@@ -22,11 +22,11 @@ We harness the power of algorithmic trading to execute trades swiftly and effici
 
 ### Cutting-Edge Technology
 
-At Yellow Moon Capital Research, we believe that technology is the key to unlocking investment success. We leverage the best software and technology available to support our strategies, enabling us to stay ahead of the curve and deliver exceptional results.
+At Electric Moon Trading Company, we believe that technology is the key to unlocking investment success. We leverage the best software and technology available to support our strategies, enabling us to stay ahead of the curve and deliver exceptional results.
 
 ## Getting Started
 
-If you're interested in exploring the world of income and growth with Yellow Moon Capital Research, here's how you can get started:
+If you're interested in exploring the world of income and growth with Electric Moon Trading Company, here's how you can get started:
 
 1. **Explore our repositories**: Browse through our Github repositories to gain insights into our quantitative strategies, algorithmic trading techniques, and innovative solutions.
 
@@ -40,10 +40,10 @@ We value your feedback and are always eager to answer any questions you may have
 
 - Channels are currently under developement. Please check again later!
 
-<!-- - Email: [contact@yellowmoonresearch.com](mailto:contact@yellowmoonresearch.com) -->
-<!-- - Website: [www.yellowmoonresearch.com](https://www.yellowmoonresearch.com) -->
-<!-- - Twitter: [@yellowmoonresearch](https://twitter.com/yellowmoonresearch) -->
+<!-- - Email: [contact@electricmoontrading.com](mailto:contact@electricmoontrading.com) -->
+<!-- - Website: [www.electricmoontrading.com](https://www.electricmoontrading.com) -->
+<!-- - Twitter: [@electricmoontrading](https://twitter.com/electricmoontrading) -->
 
 We look forward to embarking on a prosperous investment journey with you!
 
-*Disclaimer: Yellow Moon Capital Research is an organization focused on financial research and analysis. While we strive to provide the best possible investment solutions, all investment decisions should be made based on individual risk tolerance, financial goals, and thorough due diligence. Past performance is not indicative of future results.*
+*Disclaimer: Electric Moon Trading Company is an organization focused on financial research and analysis. While we strive to provide the best possible investment solutions, all investment decisions should be made based on individual risk tolerance, financial goals, and thorough due diligence. Past performance is not indicative of future results.*
