@@ -28,11 +28,16 @@ At Electric Moon Trading Company, we believe that technology is the key to unloc
 
 If you're interested in exploring the world of income and growth with Electric Moon Trading Company, here's how you can get started:
 
-1. **Explore our repositories**: Browse through our Github repositories to gain insights into our quantitative strategies, algorithmic trading techniques, and innovative solutions.
+1. **Learn more about us on our website**:
 
-2. **Collaborate**: We welcome collaboration and encourage contributions from like-minded individuals. Feel free to open issues, submit pull requests, or join our discussions to help us improve and refine our strategies.
+<!-- - Website: [www.electricmoontrading.com](https://www.electricmoontrading.com) -->
+- Website is currenly under developement and will be released soon. Please check again later!
 
-3. **Stay up to date**: Follow us on Github to receive updates on our latest projects, research papers, and exciting developments in the field of income and growth.
+2. **Explore our repositories**: Browse through our Github repositories to gain insights into our quantitative strategies, algorithmic trading techniques, and innovative solutions.
+
+3. **Collaborate**: We welcome collaboration and encourage contributions from like-minded individuals. Feel free to open issues, submit pull requests, or join our discussions to help us improve and refine our strategies.
+
+4. **Stay up to date**: Follow us on Github to receive updates on our latest projects, research papers, and exciting developments in the field of income and growth.
 
 ## Contact Us
 
